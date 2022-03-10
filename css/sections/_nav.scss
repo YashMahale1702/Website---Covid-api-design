@@ -1,0 +1,5 @@
+.nav {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(42rem, 1fr));
+    gap: 5rem;
+}
